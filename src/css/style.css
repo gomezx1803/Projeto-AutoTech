@@ -1,3 +1,18 @@
-head {
-    background-color: aliceblue;
+body {
+    background-color: aliceblue
+}
+
+header {
+    background: fixed;
+    background-color: darkgoldenrod;
+}
+
+.cabecalho{
+    position: absolute;
+    top: 0px;
+    left: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 12vh;
 }
