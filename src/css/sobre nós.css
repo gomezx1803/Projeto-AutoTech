@@ -19,7 +19,7 @@ header {
 
 /* Links */
 a {
-    color: ;
+    color: #4CAF50;
     text-decoration: none;
 }
 
@@ -37,11 +37,13 @@ section {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* Títulos */
 h1, h2, h3 {
     color: #333;
     margin-bottom: 1rem;
 }
 
+/* Botões */
 button {
     background: #4CAF50;
     color: white;
@@ -53,17 +55,14 @@ button {
 }   
 
 button:hover {
-    background:#45a049;
+    background: #45a049;
 }
 
+/* Rodapé */
 footer {
     text-align: center;
     padding: 1rem 0;
     background: #333;
     color: white;
     margin-top: 2rem;
-}
-
-* {
-    list-style: none;
 }
