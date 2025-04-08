@@ -21,9 +21,12 @@ p {
     background: none;
     border: none;
     left: 0;
+    top: 0;
     position:absolute;
-    width: 10vh;
-    height: 10vh;    
+}
+
+img {
+    max-width: 50px;
 }
 
 a {
@@ -52,4 +55,8 @@ footer {
     background: #333;
     color: white;
     margin-top: 2rem;
+}
+ul {
+    list-style: none;
+    padding: 0;
 }
