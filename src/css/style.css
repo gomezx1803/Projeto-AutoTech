@@ -8,11 +8,13 @@ header {
 }
 
 .cabecalho{
-    position: absolute;
-    top: 0px;
-    left: 900px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 12vh;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+ul {
+    list-style: none;
 }
