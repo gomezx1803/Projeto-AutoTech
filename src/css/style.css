@@ -9,11 +9,28 @@ body {
 }
 
 header {
-    background: #4CAF50;
+    background: #b41111;
     color: white;
     padding: 1rem 0;
     text-align: center;
     font-size: 1.5rem;
+}
+
+h1 {
+    color: #fff;
+}
+
+.menu {
+    background: none;
+    border: none;
+    left: 0;
+    top: 0;
+    position:absolute;
+}
+
+
+.menu > img {
+    max-width: 50px;
 }
 
 a {
@@ -25,6 +42,15 @@ a:hover {
     text-decoration: underline;
 }
 
+.atalho {
+    text-align: center;
+}
+
+ul {
+    margin: 0%;
+    padding: 0;
+}
+
 section {
     margin: 2rem auto;
     padding: 1rem;
@@ -34,13 +60,13 @@ section {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2, h3 {
+h2,h3 {
     color: #333;
     margin-bottom: 1rem;
 }
 
 button {
-    background: #4CAF50;
+    background: #b41111;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
@@ -53,14 +79,14 @@ button {
 }   
 
 button:hover {
-    background:#27752a;
+    background:#7f0505;
     transition-duration: 400ms;
 }
 
 footer {
     text-align: center;
     padding: 1rem 0;
-    background: #333;
+    background: black;
     color: white;
     margin-top: 2rem;
 }
