@@ -75,3 +75,10 @@ button:hover {
 .cadastro {
     color: black;
 }
+
+p {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
