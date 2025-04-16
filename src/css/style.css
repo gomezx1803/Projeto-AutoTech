@@ -30,20 +30,6 @@ h1 {
     font-family: 'Automove', sans-serif;
     color: #fff;
 }
-
-.menu {
-    background: none;
-    border: none;
-    left: 0;
-    top: 0;
-    position:absolute;
-}
-
-
-.menu > img {
-    max-width: 50px;
-}
-
 a {
     color: white;
     text-decoration: none;
