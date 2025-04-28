@@ -36,9 +36,15 @@ button.menu {
     left: -10px;
     top: -10px;
 }
+#itens {
+    display: none;
+}
 menu {
-    background-color: rgba(255, 255, 255, 0.267);
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     position: absolute;
+    padding: 20px;
     top: 50px;
     left: 50px;
 }
