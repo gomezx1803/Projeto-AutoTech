@@ -111,3 +111,6 @@ button:hover {
     text-align: center;
     padding: 10px 0;
 }
+.rodape a {
+    color: white;
+}
